@@ -1,4 +1,4 @@
-#Loup
+# Loup
 LoupはTumblrをブログとして使うために作られた  
 無料のTumblrテーマです！  
 シンプルでフラットなデザインに仕上げました。  
@@ -6,7 +6,7 @@ LoupはTumblrをブログとして使うために作られた
 * 紹介ページ<http://totoraj930.github.io/tumblr/loup/>
 
 
-##インストールとカスタマイズ(Install and Customize)
+## インストールとカスタマイズ(Install and Customize)
 * [こちら](https://www.tumblr.com/theme/39761)のページからテーマを設定します。
 * 下記の設定項目の説明を見ながらカスタマイズページの「テーマオプション」で設定を行ってください。
 	* 「詳細設定」の「モバイルレイアウトを使用する」のチェックを外すとスマートフォンでもこのテーマが適用されます。
@@ -51,13 +51,13 @@ LoupはTumblrをブログとして使うために作られた
 [FacebookのOGP設定で必要なadminsのIDをサクッと確認する方法](http://jmatsuzaki.com/archives/12666)
 
 
-##著者(Author)
+## 著者(Author)
 **Reona Oshima (totoraj)**
 * [http://totoraj.net](http://totoraj.net/)
 * [Twitter: @totoraj930](https://twitter.com/totoraj930/)
 
 
-##ライセンス(License)
+## ライセンス(License)
 Copyright &copy; 2014 Reona Oshima (totoraj)  
 This work is released  under the MIT License.  
 <http://opensource.org/licenses/mit-license.php>
